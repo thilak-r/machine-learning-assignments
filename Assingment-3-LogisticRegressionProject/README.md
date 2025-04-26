@@ -1,5 +1,5 @@
-
-# 🎯 Diabetes Prediction App using Logistic Regression
+# Assingment 03/10 Logistic Regression Project Demonstration
+## 🎯 Diabetes Prediction App using Logistic Regression
 
 Welcome to the **Diabetes Prediction App**, a machine learning project built to predict whether a patient has diabetes based on the Pima Indians Diabetes Dataset. This app leverages a Logistic Regression model with an accuracy of ~72% and is deployed using Streamlit. 🚀
 
