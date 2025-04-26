@@ -1,4 +1,5 @@
-# Simple Flask "Hello World" App 👋
+Assingment 02 of 10, Simple Flask App Demonstration.
+## Simple Flask "Hello World" App 👋
 
 A minimal example of a web application built using the Python [Flask](https://flask.palletsprojects.com/) framework. This app demonstrates the basic structure and serves a single page displaying "Hello, World!".
 
