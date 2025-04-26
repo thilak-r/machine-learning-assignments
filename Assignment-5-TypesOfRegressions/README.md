@@ -88,7 +88,7 @@ Test set size: 20 samples
 
 **Data Visualization:**
 
-![EDA.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/EDA.png)
+![EDA.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/EDA.png)
 
 ## Regression Models Explored 🛠️
 
@@ -127,7 +127,7 @@ Here we detail each model and present its performance on the test set.
     R-squared (R²): 0.9733
     ```
 *   **Visualization:**
-    ![1.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/1.png)
+    ![1.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/1.png)
 
 ---
 
@@ -154,7 +154,7 @@ Here we detail each model and present its performance on the test set.
     (Correctly classified 9 'Not Expensive' and 9 'Expensive'. Misclassified 1 of each.)
     ```
 *   **Visualization:**
-    ![2.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/2.png)
+    ![2.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/2.png)
 
 ---
 
@@ -174,7 +174,7 @@ Here we detail each model and present its performance on the test set.
     (Note: Performance degraded compared to simple Linear Regression on this dataset.)
     ```
 *   **Visualization:**
-   ![3.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/3.png)
+   ![3.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/3.png)
 
 ---
 
@@ -197,7 +197,7 @@ Here we detail each model and present its performance on the test set.
     (Note: Ridge coefficients are slightly shrunk towards zero compared to standard Linear Regression.)
     ```
 *   **Visualization:**
-    ![4.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/4.png)
+    ![4.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/4.png)
 
 ---
 
@@ -217,7 +217,7 @@ Here we detail each model and present its performance on the test set.
     (Note: With this alpha, Lasso did not zero out any coefficients on this dataset.)
     ```
 *   **Visualization:**
-    ![5.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/5.png)
+    ![5.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/5.png)
 
 ---
 
@@ -245,9 +245,9 @@ Here we detail each model and present its performance on the test set.
     ```
 *   **Visualizations:**
    
-![6a.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/6a.png)
+![6a.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/6a.png)
 
-![6b.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/6b.png)
+![6b.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/6b.png)
 
 ---
 
@@ -263,7 +263,7 @@ Here we detail each model and present its performance on the test set.
     R-squared (R²): 0.9580
     ```
 *   **Visualization:**
-    ![7.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/7.png)
+    ![7.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/7.png)
 ---
 
 ### 8. Random Forest Regression 🌲🌲🌲
@@ -285,9 +285,9 @@ Here we detail each model and present its performance on the test set.
     (Note: Size_SqFt is overwhelmingly the most important feature according to this model.)
     ```
 *   **Visualizations:**
-    ![8a.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/8a.png)
+    ![8a.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/8a.png)
 
-    ![8b.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/8b.png)
+    ![8b.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/8b.png)
 
 ---
 
@@ -304,7 +304,7 @@ Here we detail each model and present its performance on the test set.
     (Note: SVR performed very poorly on this dataset with these parameters, indicating a need for better tuning or that it's not well-suited here.)
     ```
 *   **Visualization:**
-   ![9.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/9.png)
+   ![9.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/9.png)
 
 ---
 
@@ -323,7 +323,7 @@ Here we detail each model and present its performance on the test set.
     R-squared (R²): 0.9707
     ```
 *   **Visualization:**
-    ![10.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/10.png)
+    ![10.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/10.png)
 
 ---
 
@@ -350,7 +350,7 @@ Here we detail each model and present its performance on the test set.
     (Note: Forward selection removed 'Num_Bedrooms' and achieved the highest R² on this test set.)
     ```
 *   **Visualization:**
-    ![11.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/11.png)
+    ![11.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/11.png)
 
 ---
 
@@ -373,7 +373,7 @@ Here we detail each model and present its performance on the test set.
     (Note: The provided results show coefficients near zero and a negative R², suggesting the model might not have converged well or priors dominated heavily. The results above are slightly adjusted assuming a typical successful run for illustrative purposes, but the original poor performance should be noted if accurate.)
     ```
 *   **Visualization:**
-    ![12.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assingment-5-TypesOfRegressions/images/12.png)
+    ![12.png](https://raw.githubusercontent.com/thilak-r/machine-learning-assignments/main/Assignment-5-TypesOfRegressions/images/12.png)
 ---
 
 ## Conclusion 🎉
