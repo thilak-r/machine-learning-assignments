@@ -388,4 +388,17 @@ This repository demonstrated the application of various regression techniques to
 *   **SVR** and **Bayesian Ridge** (as per the provided output) performed poorly, potentially due to the need for more specific hyperparameter tuning or limitations in capturing the underlying data structure with default settings.
 
 The choice of the best model depends on the specific goals (prediction accuracy, interpretability, uncertainty quantification) and the characteristics of the dataset.
+---
 
+
+## 📬 Contact
+
+- 👤 **Author**: Thilak R
+- 📧 **Email**: [thilak22005@gmail.com](mailto:thilak22005@egmail.com)
+- 🌐 **GitHub**: [thilak-r](https://github.com/thilak-r)
+
+
+  <br><br>
+under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+
+## Thank you !
