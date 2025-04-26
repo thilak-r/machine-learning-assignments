@@ -87,8 +87,6 @@ A minimal example of a web application built using the Python [Flask](https://fl
 
 ---
 
----
-
 ## 📬 Contact
 
 - 👤 **Author**: Thilak R
