@@ -76,7 +76,6 @@ Potential improvements:
 
 This project successfully demonstrated using deep learning to detect sarcasm in news headlines with ~90% accuracy. It highlights the importance of understanding nuanced language in text analysis. While effective, future work incorporating more context, advanced models, and explainability can further improve robustness. 🎉
 
-
 ## 🤝 Acknowledgements
 
 This work is carried out under the valuable guidance of  
