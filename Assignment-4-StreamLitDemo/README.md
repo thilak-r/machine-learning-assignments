@@ -1,4 +1,4 @@
-# Assingment 04/10 Building a Modern Streamlit App ✅
+# Assignment 04/10 Building a Modern Streamlit App ✅
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://todo-sample.streamlit.app/)
 
