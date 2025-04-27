@@ -2,7 +2,7 @@
 # Assignment 01 of 10: Real-World Applications of Machine Learning and Data Analysis
 ## ML Application 🤖 - Sarcasm Detection in News Headlines 📰
 
-## 🤔 Introductionn
+## 🤔 Introduction
 
 Sarcasm detection in text is tricky! 😉 Unlike regular sentiment analysis (positive/negative/neutral), sarcasm uses irony, making interpretation hard. This project uses **Deep Learning** to detect sarcasm in news headlines from *TheOnion* (sarcastic) & *HuffPost* (non-sarcastic).
 
