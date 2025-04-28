@@ -79,7 +79,7 @@ This project successfully demonstrated using deep learning to detect sarcasm in 
 ## 🤝 Acknowledgements
 
 This work is carried out under the valuable guidance of  
-**[Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)**. 🎓
+**[Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)**. 
 
 His mentorship has been instrumental in ensuring the academic quality and depth of these assignments.
 
