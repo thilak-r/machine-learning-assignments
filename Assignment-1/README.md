@@ -8,7 +8,7 @@ Sarcasm detection in text is tricky! 😉 Unlike regular sentiment analysis (pos
 
 **Goal:** Build & evaluate a model to classify headlines, understand its real-world use, and explore future improvements. Knowing sarcasm helps analyze social media, customer feedback, etc., more accurately. 👍
 
-## 💾 Dataset: "News Headline Dataset for Sarcasm Detection"
+## 💾 Dataset: "News Headline Dataset for Sarcasm Detectionn"
 
 *   **Source:** [GitHub Repository](https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection) 💻
 *   **Content:** Headlines from *TheOnion* (sarcastic) & *HuffPost* (non-sarcastic).
